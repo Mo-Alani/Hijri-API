@@ -1,0 +1,8 @@
+C:\Users\Alani\documents\visual studio 2012\Projects\Hijri-API\Hijri-API\obj\Debug\Hijri_API.Resources.resources
+C:\Users\Alani\documents\visual studio 2012\Projects\Hijri-API\Hijri-API\obj\Debug\Hijri-API.vbproj.GenerateResource.Cache
+C:\Users\Alani\documents\visual studio 2012\Projects\Hijri-API\Hijri-API\bin\Hijri-API.dll
+C:\Users\Alani\documents\visual studio 2012\Projects\Hijri-API\Hijri-API\bin\Hijri-API.pdb
+C:\Users\Alani\documents\visual studio 2012\Projects\Hijri-API\Hijri-API\bin\Hijri-API.xml
+C:\Users\Alani\documents\visual studio 2012\Projects\Hijri-API\Hijri-API\obj\Debug\Hijri-API.dll
+C:\Users\Alani\documents\visual studio 2012\Projects\Hijri-API\Hijri-API\obj\Debug\Hijri-API.xml
+C:\Users\Alani\documents\visual studio 2012\Projects\Hijri-API\Hijri-API\obj\Debug\Hijri-API.pdb

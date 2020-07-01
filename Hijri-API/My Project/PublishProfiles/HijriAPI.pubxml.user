@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <LastUsedBuildConfiguration>Release</LastUsedBuildConfiguration>
+    <LastUsedPlatform>Any CPU</LastUsedPlatform>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAFDC4h5ixgkecJc7fLc82JgAAAAACAAAAAAAQZgAAAAEAACAAAADB0dNq1SdkgJrWwmm5N1j2G3tBtMW9MSDMn8+OJSce/gAAAAAOgAAAAAIAACAAAABClZV2jHmRZHDVAxairbjWJ2yKWcm25XxDIwqvDfMFcyAAAABfCO9qlKEYcIge3Z2892MpqBemJBVMDbLDl/Cn9eUM3UAAAADg2OxPVqDHHtsttNxmknXlpdls0SFyZx9mS3JvvByGyc086KnIo8dtoF7QXU7MqPfE1OQdX7B+YvcSd3/ZjBEX</EncryptedPassword>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/Hijri-API.dll">
+      <publishTime>12/13/2012 13:00:33</publishTime>
+    </File>
+    <File Include="bin/Hijri-API.xml">
+      <publishTime>12/13/2012 13:00:33</publishTime>
+    </File>
+    <File Include="Calendar.aspx">
+      <publishTime>12/13/2012 13:00:01</publishTime>
+    </File>
+    <File Include="Convert.aspx">
+      <publishTime>11/09/2012 13:40:27</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>12/13/2012 13:00:49</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

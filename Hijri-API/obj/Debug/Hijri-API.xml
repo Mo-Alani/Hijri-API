@@ -1,0 +1,151 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Hijri-API
+</name>
+</assembly>
+<members>
+<member name="F:Hijri_API.WebForm1.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hijri_API.WebForm1.OutputLabel">
+	<summary>
+OutputLabel control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="M:Hijri_API.Converter.Dates.IsHijri(System.String)">
+	<summary>
+ Check if string is hijri date and then return true 
+ </summary>
+	<param name="hijri"></param>
+	<returns></returns>
+</member><member name="M:Hijri_API.Converter.Dates.IsGreg(System.String)">
+	<summary>
+ Check if string is Gregorian date and then return true 
+ </summary>
+	<param name="greg"></param>
+	<returns></returns>
+</member><member name="M:Hijri_API.Converter.Dates.HijriToGreg(System.String)">
+	<summary>
+ Convert Hijri Date to it's equivalent Gregorian Date
+ </summary>
+	<param name="hijri"></param>
+	<returns></returns>
+</member><member name="M:Hijri_API.Converter.Dates.HijriToGreg(System.String,System.String)">
+	<summary>
+ Convert Hijri Date to it's equivalent Gregorian Date and return it in specified format
+ </summary>
+	<param name="hijri"></param>
+	<param name="format"></param>
+	<returns></returns>
+</member><member name="M:Hijri_API.Converter.Dates.GregToHijri(System.String)">
+	<summary>
+ Convert Gregoian Date to it's equivalent Hijir Date
+ </summary>
+	<param name="greg"></param>
+	<returns></returns>
+</member><member name="M:Hijri_API.Converter.Dates.GregToHijri(System.String,System.String)">
+	<summary>
+ Convert Hijri Date to it's equivalent Gregorian Date and return it in specified format
+ </summary>
+	<param name="greg"></param>
+	<param name="format"></param>
+	<returns></returns>
+</member><member name="M:Hijri_API.Converter.Dates.H2GZurich(System.Int32,System.Int32,System.Int64)">
+	<summary>
+ Convert Hijri Date to it's equivalent Gegorian Date and return it in specified format according to Zurich
+ </summary>
+	<param name="d"></param>
+	<param name="m"></param>
+	<param name="y"></param>
+	<returns></returns>
+</member><member name="M:Hijri_API.Converter.Dates.G2HZurich(System.Int32,System.Int32,System.Int64)">
+	<summary>
+ Convert Gregorian Date to it's equivalent Hijri Date and return it in specified format according to Zurich
+ </summary>
+	<param name="d"></param>
+	<param name="m"></param>
+	<param name="y"></param>
+	<returns></returns>
+</member><member name="M:Hijri_API.Converter.Dates.intPart(System.Double)">
+	<summary>
+ Flooring
+ </summary>
+	<param name="floatNum"></param>
+	<returns></returns>
+</member><member name="M:Hijri_API.Converter.Dates.ZWeekday(System.Int64)">
+	<summary>
+ Weekday
+ </summary>
+	<param name="x"></param>
+	<returns></returns>
+</member><member name="T:Hijri_API.Converter.Dates">
+	<summary>
+ Summary description for Dates.
+ </summary>
+</member><member name="F:Hijri_API.Calendar.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hijri_API.Calendar.OutputLabel">
+	<summary>
+OutputLabel control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="P:Hijri_API.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Hijri_API.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:Hijri_API.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="P:Hijri_API.My.MyWebExtension.Computer">
+	<summary>
+ Returns information about the host computer.
+ </summary>
+</member><member name="P:Hijri_API.My.MyWebExtension.User">
+	<summary>
+ Returns information for the current Web user.
+ </summary>
+</member><member name="P:Hijri_API.My.MyWebExtension.Request">
+	<summary>
+ Returns Request object.
+ </summary>
+</member><member name="P:Hijri_API.My.MyWebExtension.Response">
+	<summary>
+ Returns Response object.
+ </summary>
+</member><member name="P:Hijri_API.My.MyWebExtension.Log">
+	<summary>
+ Returns the Asp log object.
+ </summary>
+</member><member name="T:Hijri_API.My.MyWebExtension">
+	<summary>
+ Module used to define the properties that are available in the My Namespace for Web projects.
+ </summary>
+	<remarks></remarks>
+</member>
+</members>
+</doc>
